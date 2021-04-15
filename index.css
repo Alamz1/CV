@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    padding: 50px;
+    margin: 20px;
+    background-color:aliceblue;
+}
+
+.detail{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.detail h1{
+    text-transform: uppercase;
+}
+.skill{
+    display: flex;
+   justify-content: space-between;
+   padding: 20px;
+}
+
+.hht{
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.ht{
+    padding: 10px;
+}
